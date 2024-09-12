@@ -35,7 +35,6 @@
 .navbar ul li{
     text-decoration: none;
     color: #fff;
-    text-transform: uppercase;
 }
 .navbar ul li::after{
     content: "";
